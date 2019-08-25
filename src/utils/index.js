@@ -1,5 +1,5 @@
 import * as styles from "./styles"
-import { HomeHeader } from "./Header"
+import { HomeHeader, PageHeader } from "./Header"
 // import { Banner } from './Banner'
 // import { BannerButton, SectionButton } from './Button'
 // import { Section } from './Section'
@@ -9,7 +9,7 @@ export {
   HomeHeader,
   // Banner,
   // BannerButton,
-  // PageHeader,
+  PageHeader,
   // Section,
   // Title,
   // SectionButton,
